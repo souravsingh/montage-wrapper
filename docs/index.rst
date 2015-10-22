@@ -61,6 +61,25 @@ Python wrapper with::
 (replacing ``x.x.x`` with the actual version number). The only dependencies
 are numpy_ and astropy_.
 
+Installation using pip
+======================
+
+The Package can be installed using pip.To install the package,Use the following command::
+    
+    pip install montage-wrapper
+
+The command will install the following required packages::
+    
+    NumPy
+    Cython
+    Related Dependencies for AstroPy
+    
+
+
+
+
+
+
 Using `montage_wrapper`
 =======================
 
